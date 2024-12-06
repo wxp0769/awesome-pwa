@@ -354,3 +354,9 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## Conferences
 
 * [A list of conferences talking about PWA](https://github.com/mobilehackersio/pwa-confs)
+
+## Morse Code Translator
+
+* [Morse Code Translator](https://www.morsecodetranslator.cc/) allows you to translate Morse code into text. Our tool can also convert text into Morse code. You can enter a string of text or a combination of Morse dots and dashes to get started.
+
+
